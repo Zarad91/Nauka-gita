@@ -1,0 +1,16 @@
+
+body {
+    background-color: #3914F4;
+    font-size: 16px;
+}
+
+.title {
+    font-weight: bold;
+    color: #F0F63E;
+    font-size: 60px;
+    padding: 0 20px; 
+}
+
+.content{
+    color: #F0F63E;
+}
