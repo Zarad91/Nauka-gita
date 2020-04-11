@@ -11,16 +11,12 @@ body {
     padding: 20px 20px; 
 }
 
-.content{
-    color: black;
-}
-
 .strophe {
     padding: 20px 20px;
 
 }
 
-strophe first {
+.strophe .first {
     color:#3420E3;
     text-align: center;
 }
