@@ -20,6 +20,12 @@ body {
 
 }
 
+.strophe .first {
+    color:#3420E3;
+    text-align: center;
+}
+
 .autor {
     font-weight: bold;
+    padding: 20px 20px;
 }
